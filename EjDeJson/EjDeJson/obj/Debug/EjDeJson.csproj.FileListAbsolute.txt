@@ -1,0 +1,13 @@
+C:\Users\antho\OneDrive\Desktop\EjDeJson\EjDeJson\EjDeJson\bin\Debug\EjDeJson.exe.config
+C:\Users\antho\OneDrive\Desktop\EjDeJson\EjDeJson\EjDeJson\bin\Debug\EjDeJson.exe
+C:\Users\antho\OneDrive\Desktop\EjDeJson\EjDeJson\EjDeJson\bin\Debug\EjDeJson.pdb
+C:\Users\antho\OneDrive\Desktop\EjDeJson\EjDeJson\EjDeJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\antho\OneDrive\Desktop\EjDeJson\EjDeJson\EjDeJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\antho\OneDrive\Desktop\EjDeJson\EjDeJson\EjDeJson\obj\Debug\EjDeJson.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Desktop\EjDeJson\EjDeJson\EjDeJson\obj\Debug\EjDeJson.Form1.resources
+C:\Users\antho\OneDrive\Desktop\EjDeJson\EjDeJson\EjDeJson\obj\Debug\EjDeJson.Properties.Resources.resources
+C:\Users\antho\OneDrive\Desktop\EjDeJson\EjDeJson\EjDeJson\obj\Debug\EjDeJson.csproj.GenerateResource.cache
+C:\Users\antho\OneDrive\Desktop\EjDeJson\EjDeJson\EjDeJson\obj\Debug\EjDeJson.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Desktop\EjDeJson\EjDeJson\EjDeJson\obj\Debug\EjDeJson.csproj.Up2Date
+C:\Users\antho\OneDrive\Desktop\EjDeJson\EjDeJson\EjDeJson\obj\Debug\EjDeJson.exe
+C:\Users\antho\OneDrive\Desktop\EjDeJson\EjDeJson\EjDeJson\obj\Debug\EjDeJson.pdb

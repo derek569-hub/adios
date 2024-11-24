@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\antho\\OneDrive\\Desktop\\EjDeJson\\EjDeJson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0D1B0D-E5E8-407E-B977-7DF66033D63B}|EjDeJson\\EjDeJson.csproj|c:\\users\\antho\\onedrive\\desktop\\ejdejson\\ejdejson\\ejdejson\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0D1B0D-E5E8-407E-B977-7DF66033D63B}|EjDeJson\\EjDeJson.csproj|solutionrelative:ejdejson\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0D1B0D-E5E8-407E-B977-7DF66033D63B}|EjDeJson\\EjDeJson.csproj|c:\\users\\antho\\onedrive\\desktop\\ejdejson\\ejdejson\\ejdejson\\manejojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0D1B0D-E5E8-407E-B977-7DF66033D63B}|EjDeJson\\EjDeJson.csproj|solutionrelative:ejdejson\\manejojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0D1B0D-E5E8-407E-B977-7DF66033D63B}|EjDeJson\\EjDeJson.csproj|c:\\users\\antho\\onedrive\\desktop\\ejdejson\\ejdejson\\ejdejson\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0D1B0D-E5E8-407E-B977-7DF66033D63B}|EjDeJson\\EjDeJson.csproj|solutionrelative:ejdejson\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0D1B0D-E5E8-407E-B977-7DF66033D63B}|EjDeJson\\EjDeJson.csproj|c:\\users\\antho\\onedrive\\desktop\\ejdejson\\ejdejson\\ejdejson\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D0D1B0D-E5E8-407E-B977-7DF66033D63B}|EjDeJson\\EjDeJson.csproj|solutionrelative:ejdejson\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManejoJson.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Desktop\\EjDeJson\\EjDeJson\\EjDeJson\\ManejoJson.cs",
+              "RelativeDocumentMoniker": "EjDeJson\\ManejoJson.cs",
+              "ToolTip": "C:\\Users\\antho\\OneDrive\\Desktop\\EjDeJson\\EjDeJson\\EjDeJson\\ManejoJson.cs",
+              "RelativeToolTip": "EjDeJson\\ManejoJson.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:55:56.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Desktop\\EjDeJson\\EjDeJson\\EjDeJson\\Estudiante.cs",
+              "RelativeDocumentMoniker": "EjDeJson\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\antho\\OneDrive\\Desktop\\EjDeJson\\EjDeJson\\EjDeJson\\Estudiante.cs",
+              "RelativeToolTip": "EjDeJson\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:49:00.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Desktop\\EjDeJson\\EjDeJson\\EjDeJson\\Form1.cs",
+              "RelativeDocumentMoniker": "EjDeJson\\Form1.cs",
+              "ToolTip": "C:\\Users\\antho\\OneDrive\\Desktop\\EjDeJson\\EjDeJson\\EjDeJson\\Form1.cs",
+              "RelativeToolTip": "EjDeJson\\Form1.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:48:25.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Desktop\\EjDeJson\\EjDeJson\\EjDeJson\\Form1.cs",
+              "RelativeDocumentMoniker": "EjDeJson\\Form1.cs",
+              "ToolTip": "C:\\Users\\antho\\OneDrive\\Desktop\\EjDeJson\\EjDeJson\\EjDeJson\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EjDeJson\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:38:18.297Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

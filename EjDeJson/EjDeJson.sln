@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjDeJson", "EjDeJson\EjDeJson.csproj", "{7D0D1B0D-E5E8-407E-B977-7DF66033D63B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D0D1B0D-E5E8-407E-B977-7DF66033D63B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D0D1B0D-E5E8-407E-B977-7DF66033D63B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D0D1B0D-E5E8-407E-B977-7DF66033D63B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D0D1B0D-E5E8-407E-B977-7DF66033D63B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66D3E9AD-7F3C-45DD-B568-E94263914ECB}
+	EndGlobalSection
+EndGlobal
